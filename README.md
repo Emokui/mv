@@ -1,4 +1,3 @@
 Sev00部署影视站
 教程地址: https://sk.102004.xyz
-两个文件是苹果cmsv10系统和mxone主题模版
-海螺  主题设置,/admin.php/admin/conch/theme
+文件为maccmsv10网站系统、mxone主题、hailuo主题
