@@ -1,9 +1,6 @@
 **Sev00部署影视站**
 
-
 **教程地址: https://skz.102004.xyz**
 
-
-**文件为maccmsv10网站系统、mxone主题、hailuo主题**
-
-主题设置,/admin.php/admin/conch/theme
+conch主题,/admin.php/admin/conch/theme
+shoutu主题,/template/shoutu33/admin/
